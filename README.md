@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Chinmay Tripathi
 
-[![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaytripathi&show_icons=true)](https://github.com/chinmaytripathi/github-readme-stats&show_icons=true)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chinmaytripathi&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaytripathi)](https://github.com/chinmaytripathi/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaytripathi&layout=compact"/>
 
 <!--
 **chinmaytripathi/chinmaytripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
