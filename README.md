@@ -1,6 +1,8 @@
-👋 Welcome to my GitHub profile! I'm passionate about software development and love to create meaningful projects using a variety of technologies.
+<h3>👋 Welcome to my GitHub profile! I'm passionate about software development and love to create meaningful projects using a variety of technologies.</h3>
 
-🚀<strong> Skills:</strong>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaytripathi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+
+<h4>🚀<strong> Skills:</h4></strong>
 
     Languages: Python, Java, C#
     Frameworks: Spring, Spring Boot, Angular, Flask
@@ -8,12 +10,12 @@
     Databases: MySQL, SQLite
     Other: Microservices, Shell Scripting
 
-💼 <strong>Recent Projects:</strong>
+<h4>💼 <strong>Recent Projects:</strong></h4>
 
     Microservices with Java: Developed a comprehensive system using microservices architecture, leveraging Java and Spring technologies to build scalable and resilient applications.
     Employee Management System with Angular: Designed and implemented an employee management system using Angular, providing a user-friendly interface for managing employee data efficiently.
 
-🛠️ <strong>IDEs:</strong>
+<h4>🛠️ <strong>IDEs:</strong></h4>
 
     Eclipse
     Spring Tool Suite
@@ -22,13 +24,13 @@
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't hesitate to reach out for any questions or collaboration opportunities. Happy coding! 
 <br/>
-<strong>Statistics</strong>
+<h4><strong>Statistics</strong></h4>
 <br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chinmaytripathi&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaytripathi&layout=compact"/>
 
-<summary>Leetcode</summary>
+<summary><h4>Leetcode</h4></summary>
   <a href="https://leetcode.com/coolchinmaytripathi/">
     <img width="47%" src="https://leetcard.jacoblin.cool/coolchinmaytripathi?font=milonga&theme=dark"" alt="leetcode stats"/>
   </a>
