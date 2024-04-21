@@ -1,15 +1,38 @@
-### Hi there 👋 I am Chinmay Tripathi
+👋 Welcome to my GitHub profile! I'm passionate about software development and love to create meaningful projects using a variety of technologies.
 
+🚀<strong> Skills:</strong>
+
+    Languages: Python, Java, C#
+    Frameworks: Spring, Spring Boot
+    Databases: MySQL
+    Web Technologies: HTML, CSS, JavaScript
+
+💼 <strong>Recent Projects:</strong>
+
+    Microservices with Java: Developed a comprehensive system using microservices architecture, leveraging Java and Spring technologies to build scalable and resilient applications.
+    Employee Management System with Angular: Designed and implemented an employee management system using Angular, providing a user-friendly interface for managing employee data efficiently.
+
+🛠️ <strong>IDEs:</strong>
+
+    Eclipse
+    Spring Tool Suite
+    Visual Studio Code
+    Visual Studio
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't hesitate to reach out for any questions or collaboration opportunities. Happy coding! 
+<br/>
+<strong>Statistics</strong>
+<br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chinmaytripathi&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaytripathi&layout=compact"/>
 
 <summary>Leetcode</summary>
   <a href="https://leetcode.com/coolchinmaytripathi/">
-    <img src="https://leetcard.jacoblin.cool/coolchinmaytripathi?font=milonga&theme=dark"" alt="leetcode stats"/>
+    <img width="47%" src="https://leetcard.jacoblin.cool/coolchinmaytripathi?font=milonga&theme=dark"" alt="leetcode stats"/>
   </a>
 
-
+<strong>Skills</strong>
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   
