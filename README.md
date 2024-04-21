@@ -4,6 +4,10 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaytripathi&layout=compact"/>
 
+<summary>Leetcode</summary>
+  <a href="https://leetcode.com/coolchinmaytripathi/">
+    <img src="https://leetcard.jacoblin.cool/coolchinmaytripathi?font=milonga&theme=dark"" alt="leetcode stats"/>
+  </a>
 <!--
 **chinmaytripathi/chinmaytripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
