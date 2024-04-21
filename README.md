@@ -3,9 +3,10 @@
 🚀<strong> Skills:</strong>
 
     Languages: Python, Java, C#
-    Frameworks: Spring, Spring Boot
-    Databases: MySQL
-    Web Technologies: HTML, CSS, JavaScript
+    Frameworks: Spring, Spring Boot, Angular, Flask
+    Frontend Technologies: HTML, CSS, JavaScript, Vue.js
+    Databases: MySQL, SQLite
+    Other: Microservices, Shell Scripting
 
 💼 <strong>Recent Projects:</strong>
 
